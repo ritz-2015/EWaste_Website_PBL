@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+.bg-custom {
+  background-image: url('./data/bg-img.jpg');
+  background-position: center; /* Center the image */
+  height: 95%;
+  background-size: cover
+}
