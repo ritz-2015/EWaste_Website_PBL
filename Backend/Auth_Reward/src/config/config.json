@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "Karthik@123", 
-    "database": "E-waste_Locator_Webapp",
+    "password": "@sql", 
+    "database": "E_waste_Locator_Webapp",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
